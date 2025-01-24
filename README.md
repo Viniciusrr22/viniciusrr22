@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente estou em busca da minha primeira oportunidade na area de desenvolvedor  ...
 - 🌱 Tenho conhcimento em tecnologias de desenvolvimento web (FrontEnd)
--       HTML3;
--       Css5;
+-       HTML5;
+-       Css3;
 -       JavaScript...
 👯 Tenho conhecimento em linguagem de programação (Back-End)
 -      Node.js;
